@@ -1,4 +1,7 @@
+.gradle
+build
 .idea
+out
 the basic JAVA.iml
 ### IntelliJ IDEA ###
 out/
