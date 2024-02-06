@@ -1,6 +1,5 @@
-package quru.qa.hw;
+package quru.qa.hw_collection;
 
-import java.util.Collections;
 import java.util.Set;
 import java.util.TreeSet;
 
