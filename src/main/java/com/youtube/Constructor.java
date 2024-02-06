@@ -1,5 +1,8 @@
 package com.youtube;
 
+/**
+ * Пример конструкторов, в первом это по умолчанию если параметры не заданы и тд
+ */
 public class Constructor {
 
 }
@@ -8,9 +11,7 @@ class Human {
     private final String name;
     private int age;
 
-    /**
-     * Пример конструкторов, в первом это по умолчанию если параметры не заданы и тд
-     */
+
     public Human() {
         this.name = "Имя по умолчанию";
         this.age = 0;
