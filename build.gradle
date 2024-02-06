@@ -6,7 +6,7 @@ repositories {  // поиск библиотек в мавен централ
     mavenCentral()
 }
 
-compileTestJava {
+tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }
 
