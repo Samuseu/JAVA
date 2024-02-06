@@ -1,6 +1,6 @@
 package com.youtube;
 
-public class StaticLesson20 {
+public class StaticLesson21 {
     public static void main(String[] args) {
         Human h1 = new Human("Боб", 40);
         Human h2 = new Human("Vlad", 20);
