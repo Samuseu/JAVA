@@ -1,6 +1,4 @@
 package com.youtube.test.polymarfism;
-import org.jetbrains.annotations.NotNull;
-
 public class Test2 {
     public static void main(String[] args) {
         Animal animal = new Animal();
