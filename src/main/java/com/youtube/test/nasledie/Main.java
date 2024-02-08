@@ -6,6 +6,5 @@ public class Main {
         Dog dog = new Dog("Bob",2);
         dog.getInfo();
         System.out.println(dog);
-
     }
 }
