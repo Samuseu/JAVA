@@ -9,12 +9,9 @@ public class Test2 {
         Test2.test(animal);
         test(cat);
         test(dog);
-
     }
 
     public static void test(Animal animal) {
         animal.eat();
     }
-
-
-    }
+}
