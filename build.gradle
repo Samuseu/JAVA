@@ -6,9 +6,11 @@ repositories {  // поиск библиотек в мавен централ
     mavenCentral()
 }
 
-tasks.withType(JavaCompile) {
+
+compileTestJava {
     options.encoding = 'UTF-8'
 }
+
 
 dependencies { // подключение зависимостей
     implementation 'org.slf4j:slf4j-api:2.0.9' // зависимость от SLF4J API
